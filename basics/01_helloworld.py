@@ -1,0 +1,5 @@
+print("hello world \n" *5) 
+print (100)
+print (True)
+print ('x')
+print (['aditi','kannan','jay'])
